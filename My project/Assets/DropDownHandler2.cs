@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-public class DropDownHandler : MonoBehaviour
+public class DropDownHandler2 : MonoBehaviour
 {
     public Dropdown option;
     private void Start() {
